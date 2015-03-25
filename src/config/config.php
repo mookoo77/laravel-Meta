@@ -33,5 +33,6 @@ return array(
     |
     */
 
-    'image_limit' => 5
+    'image_limit' => 5,
+    'init_key' => "sdsa",
 );
